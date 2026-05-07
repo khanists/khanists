@@ -12,7 +12,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 - 🤝 Open to collaborations on **Data Analytics, ML & AI projects**
 - 💡 Always on the lookout for **innovative solutions** and **new learning experiences**
 - 💬 Feel free to ask me about **Python, SQL, and Backend Development**
-- 📧 Let's connect: [andyituhermawan@gmail.com](mailto:andyituhermawan.com)
+- 📧 Let's connect: [khaerunnisa2903@gmail.com](mailto:khaerunnisa2903@gmail.com)
 
 ---
 
