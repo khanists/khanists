@@ -23,7 +23,6 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 #### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-001E1A?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -42,7 +41,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 
 I believe in the power of collaboration and knowledge-sharing. Let's connect and explore new opportunities together:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-hermawan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaerun-nisa-ts/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andyituhermawan.github.io/portfolio/portfolio.html)
 
 
