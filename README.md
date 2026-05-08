@@ -42,7 +42,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 I believe in the power of collaboration and knowledge-sharing. Let's connect and explore new opportunities together:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaerun-nisa-ts/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andyituhermawan.github.io/portfolio/portfolio.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://khanists.github.io/web_portofolio/)
 
 
 ---
