@@ -2,7 +2,7 @@
 
 ## 🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast
 
-Welcome to my digital playground! 🎢 I love exploring the world of data, solving problems with code, and building meaningful solutions. Whether it's crunching numbers or crafting scalable backend systems, I am passionate about transforming complex challenges into elegant solutions.
+Welcome to my digital playground! 🎢 I love exploring the world of data, solving problems with code, and building meaningful solutions. Whether it's crunching numbers, I am passionate about transforming complex challenges into elegant solutions.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 - 🧠 Currently diving deep into **Data Science and Machine Learning**
 - 🤝 Open to collaborations on **Data Analytics, ML & AI projects**
 - 💡 Always on the lookout for **innovative solutions** and **new learning experiences**
-- 💬 Feel free to ask me about **Python, SQL, and Backend Development**
+- 💬 Feel free to ask me about **Python, SQL, and Machine Learning**
 - 📧 Let's connect: [khaerunnisa2903@gmail.com](mailto:khaerunnisa2903@gmail.com)
 
 ---
