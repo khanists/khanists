@@ -9,7 +9,7 @@ Welcome to my digital playground! 🎢 I love exploring the world of data, solvi
 ### 🌱 What I'm Up To
 
 - 🧠 Currently diving deep into **Data Science and Machine Learning**
-- 🤝 Open to collaborations on **Data Analytics, ML & AI projects**
+- 🤝 Open to collaborations on **Data Analytics and ML **
 - 💡 Always on the lookout for **innovative solutions** and **new learning experiences**
 - 💬 Feel free to ask me about **Python, SQL, and Machine Learning**
 - 📧 Let's connect: [khaerunnisa2903@gmail.com](mailto:khaerunnisa2903@gmail.com)
